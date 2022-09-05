@@ -1,0 +1,10 @@
+milk, 3
+bread, 4
+cereals, 40
+jam, 30
+
+
+
+
+Python - Jam? is not present ---> you add it to the txt file and then also ask the user the price if it...
+Python - bread? its present ---> show the price to the shopkeeper and add to the bill
